@@ -2,3 +2,26 @@ img {
   width: 30%;
   margin: calc(10% / 6);
 }
+
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  margin: 0 calc(10% / 6);
+  padding: 0.8em 0;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1em;
+}
+
+/* 
+- font-family: Defines the font family   we'll be using on our element
+
+- font-weight: Defines the grossor of the font stuff like bold or thin.
+
+- font-size: Defines the size of the font aka text of the element in consecuence.
+
+- text-transform: specifies how to capitalize an element's text.
+*/
